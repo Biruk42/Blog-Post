@@ -23,7 +23,6 @@ This is a Flask-based blog application that allows users to create, read, update
 2. Install the required dependencies listed in the `requirements.txt` file.
 3. Set up a virtual environment and activate it.
 4. Run the Flask application using `flask run`.
-5. Access the blog application in your web browser at `http://localhost:5000`.
 
 ## Credits
 This blog application was created by Biruk. Contributions are welcome and encouraged.
